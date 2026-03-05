@@ -1,12 +1,11 @@
 {
-  "token": "enter account token",
+  "token": "OTk2MzQyOTMyNDM1MTIwMTU5.Gx4org.1gjjcD7QFGv8qh70dsGTDKA8zJ0wl12jf-wmTw",
   "prefix": ">",
   "settings": {
     "channel_ids":[
-      1253727886800588820,
-      1270754511362850817
+      1073820520056889395
     ],
-    "owodm_channelid": enter owo_dm channel id,
+    "owodm_channelid": 1073820520056889395,
       "channel_change_interval": [5, 15],
       "animal_types": "all",
       "slotamount": ["100", "500", "200"],
