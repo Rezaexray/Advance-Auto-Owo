@@ -140,7 +140,7 @@ def create_tasks():
 intents = discord.Intents.all() # Atau discord.Intents.default()
 client = commands.Bot(
     description="Advanced Auto OwO",
-    command_prefix=prefix,
+    command_prefix=">",
     case_insensitive=True,
     self_bot=True,
     help_command=None,
