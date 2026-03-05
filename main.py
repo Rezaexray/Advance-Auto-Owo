@@ -144,7 +144,7 @@ client = commands.Bot(
     case_insensitive=True,
     self_bot=True,
     help_command=None,
-    sync_presence=False
+    sync_presence=False,
     intents=intents
 )
 
