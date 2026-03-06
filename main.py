@@ -4,7 +4,7 @@ import asyncio
 import random
 
 # MASUKKAN TOKEN BARU KAMU DI SINI (Setelah ganti password)
-TOKEN = "OTk2MzQyOTMyNDM1MTIwMTU5.GMT4vV.9YjDm7f6tNwPFRMnVnK-ndo_ghiszvc7g6Dojo" 
+TOKEN = "OTk2MzQyOTMyNDM1MTIwMTU5.GbYdze.gBCpqDsQ20ptoNlp5cdmaI91cWimEdsZkFHi7Q" 
 # MASUKKAN ID CHANNEL TEMPAT OWO (Klik kanan channel > Copy ID)
 CHANNEL_ID = 1073820520056889395 
 
