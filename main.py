@@ -137,7 +137,6 @@ def create_tasks():
     except Exception as e:
         print(e)
 
-intents = discord.Intents.all() # Atau discord.Intents.default()
 client = commands.Bot(
     description="Advanced Auto OwO",
     command_prefix=">",
