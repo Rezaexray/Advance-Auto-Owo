@@ -6,7 +6,7 @@ import random
 # MASUKKAN TOKEN BARU KAMU DI SINI (Setelah ganti password)
 TOKEN = "OTk2MzQyOTMyNDM1MTIwMTU5.Gf0lSX.1UFIuhpVa7Mzg2AtUR9DP4pUsZq1lnrThgeEe8" 
 # MASUKKAN ID CHANNEL TEMPAT OWO (Klik kanan channel > Copy ID)
-CHANNEL_ID = 123456789012345678 
+CHANNEL_ID = 1073820520056889395 
 
 bot = commands.Bot(command_prefix="!", self_bot=True)
 
