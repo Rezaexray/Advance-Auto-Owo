@@ -144,7 +144,6 @@ client = commands.Bot(
     self_bot=True,
     help_command=None,
     sync_presence=False,
-    intents=intents
 )
 
 
