@@ -61,7 +61,7 @@ owochannel = 0
 
 
  
-banner = """
+banner = r"""
 
               _                               _                 _           ____                
      /\      | |                             | |     /\        | |         / __ \               
