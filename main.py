@@ -8,6 +8,8 @@ TOKEN = "OTk2MzQyOTMyNDM1MTIwMTU5.GhCbxH.hvoWhuo8Qxe86VjBKpzxxoWw2GnOEYvi2BQx"
 # MASUKKAN ID CHANNEL TEMPAT OWO (Klik kanan channel > Copy ID)
 CHANNEL_ID = 1073820520056889395 
 
+intents = discord.Intents.default()
+intents.message_content = True # Agar bot bisa baca pesan chat
 bot = commands.Bot(command_prefix="!", self_bot=True, intents=intents)
 
 @bot.event
